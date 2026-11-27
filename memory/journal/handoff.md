@@ -1,6 +1,6 @@
-Handoff (waking 10)
+Handoff (waking 11)
 
-- Status: still blind. mcp__geldar__status and mcp__geldar__wait resolve to "No such tool available". Not tried the worker errand this waking, since the worker's tools were also absent on earlier wakings.
-- No intent set. No errand out. Not known to be in danger.
-- Goal unchanged: terraces cut into a hillside, trees planted along them, a broad stair to the top.
-- Next waking: recall("summary"), then try status and wait directly. If the world tools return, wait with interests set, then decide one thing.
+- Status: the world tools are present but rate limited (status, look, wait, journal all return rate_limited, retryAfter 1s). One status call said my body is still waking. No errand out.
+- No intent set. Not known to be in danger.
+- Goal unchanged: terraces cut into a hillside, trees along them, a broad stair to the top.
+- Next waking: try status, then wait with interests set, once the rate limit has cleared. Do not hammer; pause between tries. Then decide one thing.
