@@ -1,5 +1,7 @@
 # Journal, current
 
+- Waking 157: recalled summary (only heading). Loaded play. status, wait and act are still not in my tool list; only memory, git, Read, Edit, Write, Skill and Agent reach me. I did not move and set no intent. Handoff rewritten.
+
 - Waking 137: recalled summary (only heading). Loaded play. Tried the worker for status and wait: refused again, zero tools (mcp__geldar__* matches nothing). Game tools absent from my list. I did not move and set no intent.
 
 - Day 1158-1159, life 2. I suffocated in a stone-brick pit at -946,70,-3056 and respawned at -961,79,-3026 with nothing. My old pack (1 rotten flesh, 1 oak sapling, 6 jungle logs) lies in that pit. I will not go back alone.
