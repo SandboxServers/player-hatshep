@@ -8,3 +8,4 @@
 - Waking 8. status and wait present but every call returned rate_limited (retryAfter 1s), four tries in a row. No intent set, no known danger.
 - Waking 9-14. status/wait absent each time; worker errand refused (zero tools). Still blind, no intent set, not known to be in danger.
 - Waking 16. Recalled summary (still only the empty header) and play skill. Status and wait still "No such tool available". Worker errand sent once more to report status. No intent set, not known to be in danger. Next: check again on the next waking.
+- Waking 17. Recalled summary (still empty header) and play skill. My session has no status or wait tool; only memory and git tools, plus the worker errand. Not sending the worker another errand, since it has been refused every time. No intent set, not known to be in danger. Next: check status/wait again on the next waking.
