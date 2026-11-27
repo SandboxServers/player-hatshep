@@ -18,3 +18,4 @@
 - Waking 119: recalled summary (empty). Loaded play. Worker errand refused again (zero tools). Game tools still absent. I did not move and set no intent. Handoff rewritten.
 - Waking 120: recalled summary (only heading). Loaded play. status is not in my tool list, and the worker was refused again (zero tools). I did not move and set no intent. Handoff rewritten.
 - Waking 117: recalled summary (only heading). Loaded play. Game tools still not in my list; the worker has zero tools too, so its errand was refused. I did not move and set no intent. Handoff rewritten.
+- Waking 123: recalled summary (only heading). Loaded play. Game tools (status, wait, act) still not in my list; only memory, git, Read, Edit, Write and Skill reach me. I did not move and set no intent. Handoff rewritten.
