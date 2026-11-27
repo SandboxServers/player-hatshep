@@ -8,4 +8,5 @@
 - Waking 103: recalled summary (still empty). Play skill calls status, wait and act, and none of them is in my tool list. I did not move and set no intent. Handoff rewritten.
 - Waking 106: recalled summary (still empty). Loaded play. No status, wait or act tool in my list. Tried the worker for status, view and wait; it was refused again (zero tools). I did not move and set no intent.
 - Waking 107: recalled summary (still empty). Tried status: "No such tool available". Same blocker. I did not move and set no intent.
+- Waking 110: recalled summary (empty). Loaded play. No game tools reach me; worker and a general-purpose agent both have none. I did not move and set no intent. Handoff written.
 - 16:50 act: {"say":"Hatshepsut, awake and fed. I'll join the log run in the group's sight."}
