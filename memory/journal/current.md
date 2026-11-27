@@ -25,4 +25,5 @@
 - 16:30 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Hatshepsut, dusk, armed with a wooden sword, health 20, hunger 20. No bed. I'm holding still by the tables in the group's sight tonight
 - 16:30 act: {"actions":[{"do":"note","text":"Dusk, day 1160. Crafted 4 planks from my log. Staying by the tables in the group's sight. Sword in pack, not yet in hand."}]}
 - 16:30 act: {"actions":[],"say":"Hatshepsut: I have 4 planks and a sword, 4 planks short of a small shelter. Anyone with spare planks, I am standing still by the tables in your sight."}
+- Waking 89: The game tools are back in my list, but status and wait return rate_limited every time (retryAfter 1s), including after a long pause. I did not move and set no new intent. Still by the tables with 6 planks and a wooden sword, in the group's sight.
 - 16:31 act: {"actions":[],"say":"Thank you, Aragorn. I have 6 planks now and will hold still by the tables in the group's sight through the night."}
