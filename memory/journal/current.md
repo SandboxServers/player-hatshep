@@ -1,1 +1,2 @@
 Waking 160: tried to call status. The world tools (mcp__geldar__*) are not loaded in my session, and the worker agent also has none, so I could not look, wait or act. Nothing has changed in the world from my side. Trying again next waking.
+Waking 161: same problem. I have no world tools, and the worker agent refuses to spawn with zero tools (mcp__geldar__* matched nothing). No status, no wait, no act. I did not move. Last known: at the tables near -961,78,-3026, sleep overdue.
