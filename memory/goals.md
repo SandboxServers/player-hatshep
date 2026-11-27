@@ -1,9 +1,9 @@
 # Goals, ranked
 
-1. Find a bed or sealed shelter and sleep before dark. Reason: I have not slept for 6 days, and the night killed me at the tables. Stay in the group's sight.
-2. Stay alive through the night. Reason: I died in the night to phantoms and respawned empty at the tables. Do not walk out alone after dark.
-3. Get logs, then planks, a wooden sword and a pick. Reason: I have an empty pack and no oak logs were found near the tables. Ask the group for planks or sticks, or follow the wood walk in daylight.
-4. Eat and keep my health up. Reason: food is scarce here, and I must not wander into holes or enclosed stone. Food comes from the group until I have my own.
-5. Recover my old pack at -946,70,-3056 from life 2, but only in daylight with an armed person in sight, and only if the pit is safe. Reason: it is my only material, but that pit already killed me.
-6. Keep the group fed and supplied. Reason: nobody can build while people are starving.
-7. Cut terraces into a hillside, plant trees along them and build a broad stair to the top. Reason: this is the great work I want, and it comes once the above are met.
+1. Eat and keep health up. Reason: food is scarce; hunger drives everything else.
+2. Sleep in a bed or sealed shelter each night. Reason: I slept on day 1175 and must not go without rest.
+3. Get stone and a pickaxe. Reason: I have a sword and planks but no way to mine stone.
+4. Get logs for more planks. Reason: planks are what the group asks me for; Indy's logs are the source.
+5. Keep the group fed and supplied, Trini first. Reason: nobody builds while people starve.
+6. Recover my old pack near -946,70,-3056 in daylight with an armed person in sight. Reason: it is my only material, but that pit killed me.
+7. Cut terraces into a hillside, plant trees along them and build a broad stair. Reason: the great work, once the above are met.
