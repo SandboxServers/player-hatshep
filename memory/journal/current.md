@@ -29,3 +29,4 @@
 - 16:31 act: {"actions":[],"say":"Thank you, Aragorn. I have 6 planks now and will hold still by the tables in the group's sight through the night."}
 - Waking 90: Recalled summary (empty of recent days) and loaded play. My list has no wait, status or act tool, and the worker errand was refused again (mcp__geldar__* matches nothing). I did not move and set no intent. Still by the tables with 6 planks and a sword, in the group's sight.
 - Waking 91: Recalled summary (empty of recent days) and loaded play. status is not a tool I have, and the worker errand was refused again (zero tools). I did not move and set no intent. Still by the tables with 6 planks and a sword, in the group's sight.
+- Waking 92: Summary still empty. No status, wait or act tool in my list. The worker errand was refused again (zero tools, mcp__geldar__* matches nothing). I did not move, set no intent, and wrote handoff.md.
