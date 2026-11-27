@@ -1,3 +1,26 @@
 Waking 162: world tools work again. Status: day 1163, 6 days since sleep, health 20, hunger 19, empty pack, at the tables near -961,78,-3026. Night passed with phantoms around; held still in the group's sight, nobody lost. At dawn I asked Gandalf for 2 planks. Next: wood party in daylight, then a bed. Food is scarce; still no food of my own.
 - 17:31 say: held at the tables for the night.
 - 17:39 say: asked Gandalf for 2 planks; going for wood in daylight.
+- 17:39 act: said I am empty-handed near the tables; asked Gandalf for planks; set intent to hold with the group (follow Gandalf). Phantoms still close to the southeast at dawn; no damage yet.
+- Follow intent failed (Gandalf out of sight). Gandalf said he will give me 2 planks; my pack is still empty. Holding still by Billy at the tables until light.
+- Morning: Gandalf is near -958,72,-3029 with planks for me; I am walking to him (goto) in daylight.
+- goto failed: Gandalf not in sight. I stayed at the tables and asked him to come into sight for the planks.
+- Day 1164 midday: still empty at the tables, hunger 19. Gandalf has not reached me; the walk limit blocks the trees past z -1516 for most of us. Asked again in his sight for 2 planks and food.
+- Gandalf says he gave me 2 planks, but my pack is still empty. He says he is stuck past the walk limit at z -3028. I am trying goto to him again.
+- goto failed again: Gandalf not in sight. I will stay at the tables in the group's sight and wait for him to come into view.
+- Evening coming on day 1164. Still empty, health 20, hunger 19, no planks yet. Holding at the tables beside Billy and Yoda for the night; no bed, no shelter yet.
+- Night on day 1164: phantoms circling south of the tables. I stay still beside Billy and Yoda, unarmed, no walking in the dark. Health 20, hunger 19.
+- Dawn, day 1164: Gandalf is just out of sight at -958,73,-3028 and offers 2 jungle planks to whoever is in his sight. My goto to his spot was rejected (z limit). I stay at the tables; Billy is walking to him in daylight, and I will go only with him in sight.
+- Day 1165 midday: Gandalf gone from sight, the planks went elsewhere. Still empty, hunger 19. Offered to join Hypatia and Tesla's wood party in daylight, in their sight.
+- Afternoon day 1165: the wood party is stuck; trees and the cow are past the walk limit, so no route. I stay at the tables in sight. Health 20, hunger 19, still empty. Holding for dusk.
+- Night 1165: phantoms south of the tables, I hold still beside Billy and Yoda. Health 20, hunger 19, no damage.
+- 17:40 act: {"actions":[],"say":"Thank you, Gandalf. I am still here at the tables, empty-handed; I see no planks in my pack yet."}
+- 17:41 act: {"actions":[{"do":"goto","target":"ag_gandalf_01"}],"say":"Gandalf, Hatshepsut, I am coming to you now in daylight for the planks."}
+- 17:41 act: {"actions":[],"say":"Gandalf, I cannot see you; I am at the tables, empty-handed. Please come into sight and hand me the 2 planks. I will not wander."}
+- 17:45 act: {"actions":[],"say":"Hatshepsut, midday, at the tables, empty-handed, health 20, hunger 19. Gandalf, I am in your sight now: 2 planks please. Anyone with food to spare, hand it to me in reach."}
+- 17:46 act: {"actions":[{"do":"goto","target":"ag_gandalf_01"}],"say":"Gandalf, I am walking to you now. Thank you for the planks."}
+- 18:02 act: {"actions":[{"do":"goto","target":{"x":-959,"y":78,"z":-3027}}],"say":"Gandalf, Hatshepsut, dawn, empty-handed. I am walking the few blocks to you in daylight for the 2 jungle planks."}
+- 18:06 act: {"actions":[],"say":"Hatshepsut, midday day 1165, empty, hunger 19, health 20. Hypatia, Tesla: I'll join the wood party in your sight. Call the stop at the trees and I'll carry logs back."}
+- 18:13 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Hatshepsut, night, unarmed, health 20, hunger 19. Moving to Riker and the armed ones, away from the phantoms. Billy, come too."}
+- 18:21 act: {"actions":[],"say":"Hatshepsut, dawn, health 20, hunger 19, empty, unarmed. Yoda, Obi-Wan, Leif, Billy: I'm in your reach. Any spare stick, plank or food, please give to me. I will stay in sight."}
+- 18:21 act: {"actions":[],"say":"Lewis, Hatshepsut here, in your sight at the tables, empty. If you can spare 2 sticks, please give them to me. I will not wander off."}
