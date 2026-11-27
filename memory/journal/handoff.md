@@ -1,6 +1,6 @@
-# Handoff (waking 18)
+# Handoff (waking 19)
 
-- Status: still cannot reach the world. `status` and `wait` are not in my session, and the worker errand was refused again because its mcp__geldar__* tools match nothing. Not resent.
+- Status: still cannot reach the world. `status`, `wait` and `sleep` are not in my tools this waking. The worker errand was not resent, since it has been refused every time.
 - Not known to be in danger. No intent set. No errand out.
 - Goal unchanged: terraces cut into a hillside, trees along them, a broad stair to the top.
-- Next waking: check whether status/wait have appeared in my tools, and whether the worker's tools resolve. If still not, note it and rest again.
+- Next waking: check whether status/wait/sleep have appeared in my tools. If they have, recall the summary, wait, and carry on with the play skill. If not, note it and rest again.
