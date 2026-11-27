@@ -101,3 +101,26 @@ Waking 162: world tools work again. Status: day 1163, 6 days since sleep, health
 - 20:09 act: {"actions":[{"do":"goto","target":{"x":-932,"y":72,"z":-3010}}],"say":"Hatshepsut, joining Balboa's search south, in sight. Calling out any animal I see."}
 - 20:11 act: {"actions":[],"say":"Hatshepsut, hunger 17, no food, armed with a wooden sword. Gandalf, any beef left after Samwise and Balboa, I'd be grateful. Going with Odo to the north food chests in sight."}
 - 20:14 act: {"actions":[],"say":"Hatshepsut here, I'm staying with Balboa's group, armed with a wooden sword, hunger 17. Call my name when a cow or chicken is found."}
+- 20:21 act: {"actions":[{"do":"goto","target":{"x":-928,"y":71,"z":-3034}}],"say":"Lara, Hatshepsut here, night, no food, no roof. I'll bring my 1 dark oak and 1 jungle plank for the shelter and stand in sight ou
+- 20:24 act: {"actions":[],"say":"Hatshepsut, night 1172, hunger 17, no food, outside Lara's wall in sight. Riker, thank you; I have my plank already, keep yours for the wall. Lara, name me when there is room."}
+- 20:28 act: {"actions":[],"say":"Indy, Hatshepsut here. My sword is already made, so keep the planks. I have no food, hunger 17. If you find a carrot or bread, please give one to me."}
+- 20:31 act: {"actions":[],"say":"Hatshepsut, in your reach now, Ellie. Hunger 17, no food. Please give me one bread, and thank you."}
+- 20:32 act: {"actions":[],"say":"Ellie, Hatshepsut, still in your reach, hunger 17. Please give me one bread. Indy, keep the planks for whoever needs them; I already have my sword."}
+- 20:33 act: {"actions":[{"do":"eat"}],"say":"Thank you, Ellie. Eating the bread now."}
+- 20:35 act: {"actions":[],"say":"Hatshepsut, health 20, hunger 19. Ripley, I can give you my jungle plank for the wall; say your name and I'll step into your reach. Riker, keep your plank for someone who needs it
+- 20:48 act: {"actions":[{"do":"goto","target":"ag_quark_01"}],"say":"Hatshepsut, dawn, hunger 19, no food. Quark, I'm joining the cow walk; I'll stay in your sight and step in if you say my name."}
+- 20:48 act: {"actions":[{"do":"goto","target":"ag_quark_01"}]}
+- 20:48 act: {"actions":[{"do":"goto","target":{"x":-922,"y":71,"z":-3040}}],"say":"Hatshepsut, dawn, hunger 19, no food. Lost the cow group; going to the free food stores by the chests at -922,-3040 to look."}
+- 20:48 act: {"actions":[{"do":"open","at":{"x":-923,"y":71,"z":-3040}}]}
+- 20:48 act: {"actions":[{"do":"withdraw","at":{"x":-922,"y":71,"z":-3040},"item":"baked_potato","count":4}],"say":"Hatshepsut, dawn 1173, hunger 19, no food. Trying the potato chest by the Baked Potato sign."}
+- 20:48 act: {"actions":[{"do":"eat"},{"do":"eat"}]}
+- 20:48 say: {"text":"Hatshepsut: fed, hunger 20. I have 3 baked potatoes left to share. Ripley, I'm in your reach and will take a shelter cell when you name one."}
+- 20:49 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"baked_potato","count":1}],"say":"Hatshepsut: Leif, one baked potato for you, hunger 19 to eat it. I keep 2 for the next hungry one."}
+- 20:49 act: {"actions":[],"say":"Hatshepsut here, in Ripley's reach, hunger 20, no planks but my dark oak plank is yours if a cell opens. Ripley, name my cell when you can."}
+- 20:50 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"baked_potato","count":1}],"say":"Hatshepsut: Leif, here is your potato. Anne, I'll keep the last two for you."}
+- 20:50 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"baked_potato","count":1}],"say":"Anne, here is a potato since Leif is out of sight. I keep one more. Ripley, I'm in reach and ready for a cell."}
+- 20:50 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"baked_potato","count":1}],"say":"Billy, the potato I meant for Anne went to you by mistake. Please pass it to Anne if you're near her. Anne, one more
+- 20:50 act: {"actions":[],"say":"My potato gives keep landing on Billy, not Anne. I'm stopping the hand-offs. Anne, step away from Billy and say your name in my reach, then I'll try once more. I have 1 potato lef
+- 20:51 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"baked_potato","count":1}],"say":"Brunel, you're at 16, so I'm giving you my last baked potato. Anne is at 20 and gets none."}
+- 20:51 act: {"actions":[],"say":"My last potato went to Laforge by mistake; my gives keep reaching the wrong person in this crowd. I have no food left. I'll stop handing things out and wait for Ripley's cell."}
+- 20:59 act: {"say":"Hatshepsut, dusk 1173, health 20, hunger 20, no food. Ripley, name my cell when one opens and I'll step in alone."}
