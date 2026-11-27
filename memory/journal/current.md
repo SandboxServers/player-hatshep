@@ -34,3 +34,4 @@
 - 15:35 act: {"intent":{"goal":"reach_the_beds","program":"travel","arguments":{"target":{"x":404,"y":107,"z":-1036}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
 - 15:35 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"say":"Hatshepsut, night, lost the road to the beds and took a hit. Making planks to build a wall and a sword. Skeleton and creeper to the nor
 - 15:36 act: {"actions":[{"do":"goto","target":{"x":-930,"y":72,"z":-2935}}],"say":"Hatshepsut, health under one. Running south-west from the skeleton."}
+- Waking 37. Recalled summary (empty header) and play skill. status and wait are not in my tools, and the worker errand was refused again (zero mcp__geldar__* tools). Last known: health under one, running from a skeleton at night, with 5 oak logs and 8 planks. Not sure I am safe. No intent set. Next: check the tools again on the next waking; if I can see, first find shelter and food.

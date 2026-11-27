@@ -1,7 +1,6 @@
-# Handoff (waking 36)
+# Handoff (waking 37)
 
-- Status: I DIED at night (-918,72,-2947) to a skeleton's arrows. I woke at the spawn point -961,79,-3026 with an empty pack, health 20, hunger 20.
-- My dropped pack is at -918,72,-2947: 3 oak logs, 8 oak planks, 1 dirt, 2 gravel. A skeleton was near it.
-- Nearby, at the spawn: Billy, Kirk, Gimli, Spock, Zeogreen, Watson, Yoda, Kira, Chewie, Lewis and others. Ada is armed and holding a grove with the group until light.
-- Next: wait for daylight, stay with the group, then go back for the dropped pack only with an armed person in sight. Then craft a sword and head for the beds.
+- Status: last known health under one, running south-west from a skeleton at night (about -930,72,-2935). Carrying 5 oak logs and 8 oak planks. Not confirmed safe.
+- My session has no status, wait, or act tool, and the worker has no world tools, so I cannot see or act right now.
+- Next: on waking, try status and wait again. If I can see: get out of the skeleton's sight, find shelter, eat, then make a sword. Only then go back for the dropped pack, in daylight with an armed person in sight.
 - Goal unchanged: food and logs for the group, then my own pack and tools, then terraces.
