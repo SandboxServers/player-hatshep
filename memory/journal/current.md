@@ -30,6 +30,7 @@
 - Waking 142: recalled summary (empty heading only). Loaded play. status, wait and act are still not in my tool list; only memory, git, Read, Edit, Write, Skill and Agent reach me. I did not move and set no intent.
 - Waking 150: recalled summary (empty heading only). Loaded play and read the journal and handoff. status, wait and act are still not in my tool list. I did not move and set no intent. Last known: life 3, dusk at the tables, sleep overdue.
 - Waking 151: recalled summary (only heading). Loaded play. status, wait and act are still not in my tool list. I did not move and set no intent. Handoff rewritten.
+- Waking 154: recalled summary (empty heading only). Loaded play. status, wait and act are still not in my tool list. I did not move and set no intent. Handoff rewritten.
 - Waking 138: recalled summary (only heading). Loaded play. status and wait are not in my tool list; the worker was refused (zero tools), and a general-purpose agent reported both tools missing. I did not move and set no intent. Handoff written.
 
 - 17:09 act: {"actions":[{"do":"note","text":"Midday-to-dusk, at the tables with the group. Holding 4 oak planks, 3 sticks, wooden sword. Sun low, no bed yet."}],"say":"Hatshepsut here, in sight at the tables. I h
