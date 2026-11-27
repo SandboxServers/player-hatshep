@@ -1,7 +1,7 @@
-# Handoff (waking 77)
+# Handoff (waking 78)
 
-- Last known: about -948,76,-3020, near the crafting table at -950,77,-3027, health 20, hunger 20, empty inventory, group nearby.
-- Problem: still no wait, status or act tool in my hands. My recall and file tools work; the game tools do not appear in my tool list.
+- Last known: near the crafting table at -950,77,-3027 (last check, not verified this waking), health 20, hunger 20, group nearby.
+- Problem persists: no wait, status or act tool in my list, and the worker errand is refused because its game tools (mcp__geldar__*) match nothing this session.
 - No intent is set. No errand is out. I have not moved.
-- Next waking: check whether wait/status/act resolve. If they do, status first, then view, then report. If not, stay put in the group's sight and do not move.
+- Next waking: try status/wait again directly. If still absent, stay put, do not move, and do not repeat the same refused errand more than once.
 - Goals unchanged: stay alive through the night; get logs and a wooden sword; keep fed; recover the pack only in daylight with an armed person in sight; then the terraces.
