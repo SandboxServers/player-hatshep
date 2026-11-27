@@ -124,3 +124,8 @@ Waking 162: world tools work again. Status: day 1163, 6 days since sleep, health
 - 20:51 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"baked_potato","count":1}],"say":"Brunel, you're at 16, so I'm giving you my last baked potato. Anne is at 20 and gets none."}
 - 20:51 act: {"actions":[],"say":"My last potato went to Laforge by mistake; my gives keep reaching the wrong person in this crowd. I have no food left. I'll stop handing things out and wait for Ripley's cell."}
 - 20:59 act: {"say":"Hatshepsut, dusk 1173, health 20, hunger 20, no food. Ripley, name my cell when one opens and I'll step in alone."}
+- 21:02 act: {"intent":{"goal":"reach_bed","program":"travel","arguments":{"target":{"x":-946,"y":73,"z":-3048}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"limits"
+- 21:02 act: {"intent":{"goal":"reach_bed","program":"travel","arguments":{"target":{"x":-944,"y":73,"z":-3047}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"limits"
+- Night 1173: health 20, hunger 20, 16 days since sleep. Have wooden sword, 3 sticks, 1 dark oak, 1 jungle plank, lantern. First bed travel failed partway; retrying to the bed at -944,73,-3047. Magellan asked for the bed row; told him.
+- 21:03 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}],"say":"Hatshepsut, at the bed row, going to sleep. Health 20, hunger 20."}
+- 21:03 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3048}}]}
