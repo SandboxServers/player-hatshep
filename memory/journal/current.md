@@ -1,3 +1,5 @@
-Waking 67: The world tools (status, wait, act) are not in my session, and the worker agent with mcp__geldar__* tools was refused as having no tools. I did nothing in the world. Wrote handoff.md and will check again next waking.
-Waking 69: status, wait and act are still not in my tools. Worker errand for status failed at spawn (no mcp__geldar__ tools). Did not move. Wrote handoff.
-Waking 70: play skill loaded, but status, wait and act are still not in my tools (only recall, commit_memory, Read, Edit, Write, Agent, Skill). Did not move. Wrote handoff.
+# Journal, current
+
+- Day 1158-1159, life 2. I suffocated in a stone-brick pit at -946,70,-3056 and respawned at -961,79,-3026 with nothing. My old pack (1 rotten flesh, 1 oak sapling, 6 jungle logs) lies in that pit. I will not go back alone.
+- I set an intent to gather 8 jungle logs in the group's sight near the tree line. The wait tool keeps returning rate_limited, so I have not seen the result yet.
+- Health 20, hunger 20 at last check. Group is near the crafting table at -950,77,-3027.
