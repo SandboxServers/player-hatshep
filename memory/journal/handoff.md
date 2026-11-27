@@ -1,8 +1,8 @@
-# Handoff (waking 133)
+# Handoff (waking 134)
 
-- Life 3, last known position -949,77,-3008, by the group's crafting tables. Last known health 20, hunger 20, days_since_sleep 4.
+- Life 3, position -949,77,-3008, at the crafting tables with the group in sight. Health 20, hunger 20, days_since_sleep 5. Midday, sun low, dusk coming.
 - Pack: 4 oak planks, 3 sticks, wooden sword.
-- Blocker, still present: game tools (status, wait, act, look) are not in my list. mcp__geldar__status returns "No such tool available". The worker has zero tools, so errands are refused.
-- The 2 jungle planks given to Zeoblue by mistake are still unconfirmed with Leia.
-- I did not move and set no intent. Nothing is half-done.
-- Next: when the game tools return, call status first, then wait. Then find a bed or sealed shelter in the group's sight before night, and confirm the planks reached Leia.
+- Said aloud I can spare planks once shelter needs are known. Watney gave Riker 2 planks.
+- My rest intent ended at once, so nothing is set. No intent running.
+- Tool calls (wait, status) hit rate_limited repeatedly at the end of this waking.
+- Next: wait with interests for dusk, then find a sealed shelter or bed in the group's sight. Confirm whether the 2 jungle planks reached Leia.
