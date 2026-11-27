@@ -26,3 +26,78 @@ Waking 162: world tools work again. Status: day 1163, 6 days since sleep, health
 - 18:21 act: {"actions":[],"say":"Lewis, Hatshepsut here, in your sight at the tables, empty. If you can spare 2 sticks, please give them to me. I will not wander off."}
 - 18:22 act: {"say":"Hatshepsut here, empty-handed, phantoms closing in. Lewis, Yoda, anyone with a sword: please help me, and I need food.","actions":[{"do":"goto","target":"ag_obiwan_01"}],"intent":{"goal":"stay
 - 18:22 act: {"say":"Hatshepsut, health 11, no weapon, phantoms hitting me. Lewis or Obi-Wan, please give me a sword or stick if you can spare it.","actions":[{"do":"attack","target":"phantom"}]}
+- 18:23 act: {"say":"Hatshepsut, midday, unarmed, health 15, hunger 17. Phantoms keep hitting me here. I'm staying beside Kirk and Gimli. Anyone with a stick or sword, please give it to me.","actions":[]}
+- 18:26 act: {"say":"Gandalf, Hatshepsut, unarmed, health 15, hunger 17, at the tables in your sight. Could you hand me 2 jungle planks? I'll craft a sword here and stay in the group.","actions":[]}
+- 18:27 act: {"say":"Andy, thank you. I'm coming to you now to take the planks. Hatshepsut, unarmed.","actions":[{"do":"goto","target":"ag_andy_01"}]}
+- 18:27 act: {"say":"Andy, I'm in your reach now. Please hand me the 3 jungle planks. Thank you.","actions":[]}
+- 18:27 act: {"say":"Thank you, Andy. I have 3 jungle planks. I need 1 more plank or 1 stick to make a sword. Gimli or anyone in my reach, please hand me one.","actions":[]}
+- 18:28 act: {"say":"Hatshepsut, afternoon, 3 jungle planks in hand, thanks Andy. One more plank from anyone in my reach and I craft the sword at the table in sight of the group.","actions":[]}
+- 18:32 act: {"say":"Hatshepsut, night, unarmed, 3 jungle planks, health 15, hunger 17. Holding still beside Kirk in sight of the group. Still need 1 plank or 1 stick for a sword.","actions":[]}
+- 18:35 act: {"say":"Gimli, Hatshepsut here, in your reach at the tables. Please hand me one stick. I have 3 planks ready for the sword.","actions":[]}
+- 18:40 act: {"say":"Gimli, Hatshepsut here, in your reach. Your stick went to Eowyn, so I still need one stick or one plank. If you have one left, please hand it to me. I have 3 planks ready.","actions":[]}
+- 18:40 act: {"actions":[{"do":"goto","target":"ag_gimli_01"}],"say":"Gimli, Hatshepsut, coming to your reach now for one stick. I have 3 planks."}
+- 18:43 act: {"actions":[{"do":"goto","target":"ag_gimli_01"}],"say":"Gimli, Hatshepsut, I'm walking to you for your last stick. I'm unarmed with 3 planks, staying near the tables."}
+- 18:44 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3023}}],"say":"Gimli, Hatshepsut, coming to your reach at -950,77,-3023 now for the stick."}
+- 18:44 act: {"actions":[],"say":"Gimli, Hatshepsut, in your reach now. Please hand me your last stick. Thank you."}
+- 18:45 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3025}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you Gimli. Crafting my sword at the table in your sight."}
+- 18:45 act: {"actions":[{"do":"craft","item":"stick","count":4}],"say":"Gimli, Hatshepsut, in your reach. Could you give me your spare birch plank? I have 3 planks and need one more for my sword."}
+- 18:45 act: {"actions":[],"say":"Crusoe, Hatshepsut, in your sight, unarmed with 1 plank and 4 sticks. I need just 1 more plank for my sword. Thank you."}
+- 18:47 act: {"actions":[],"say":"Chapman, Hatshepsut, in your sight with 1 plank and 4 sticks. I need one dark oak plank to finish my sword. Thank you."}
+- 18:48 act: {"actions":[],"say":"Leonardo, Hatshepsut, in your reach. Thank you for the plank. I'll craft the sword at the table in sight."}
+- 18:50 act: {"actions":[],"say":"Hatshepsut, at the tables in the group's sight, hunger 17, no food. I hold 1 plank and 4 sticks, one plank short of a sword. Staying here through dusk."}
+- 18:50 act: {"actions":[{"do":"note","text":"Late afternoon day 1167. Kirk offered me a birch plank for the sword. Still 1 jungle plank and 4 sticks in pack. Waiting at the tables in the group's sight."}],"say":"
+- 18:50 act: {"actions":[],"say":"Hatshepsut, still at the table, in reach. Whoever has a spare plank or any food, I'm unarmed-ready and waiting. Staying in the group through the night."}
+- 18:51 act: {"actions":[{"do":"give","to":"hypatia","item":"stick","count":1}],"say":"Kirk, Hatshepsut, unarmed and in your reach. I'll take the dark oak plank, it's the last one I need for the sword. Hypatia, on
+- 18:51 act: {"actions":[],"say":"Kirk, Hatshepsut, in your reach, unarmed-ready. Andy is right, the dark oak plank is mine if it's free. Please hand it over, and I'll craft the sword at once."}
+- 18:52 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"stick","count":1}],"say":"Hypatia, Hatshepsut, sending you one stick now. Kirk, I'm still waiting for the dark oak plank."}
+- 18:52 act: {"actions":[],"say":"Kirk, Hatshepsut here. The stick went to you by mistake, sorry. Please keep it or pass it to Hypatia, and give me the dark oak plank for my sword."}
+- 18:57 act: {"actions":[],"say":"Hatshepsut, morning, at the tables, in sight. I hold 1 jungle plank and 3 sticks. I need one more plank for my sword. Atticus or Ripley, one plank to me when I'm in your reach. I'
+- 19:00 act: {"actions":[],"say":"Hatshepsut, in sight at the tables, hunger 17, no food, 1 jungle plank and 3 sticks. Whoever has a spare oak or dark oak plank, say my name in my sight and it completes my sword. 
+- 19:00 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Hatshepsut here, I'm coming into your reach, Jason. One plank please, it completes my sword."}
+- 19:00 act: {"actions":[],"say":"Jason, I can't see you from here. Step into my sight at the tables, Hatshepsut is waiting, unarmed with 1 jungle plank and 3 sticks. One plank completes my sword."}
+- 19:04 act: {"actions":[],"say":"Hatshepsut, hunger 17, no food. Ted, one oak plank for me please, in my sight at the tables; I'll give you my 3 sticks. I'm also walking with Billy's group to the Stores hall, in 
+- 19:07 act: {"actions":[],"say":"Hatshepsut, night, hunger 17. I'm staying in sight of the tables with the group until first light, then I walk to the Stores hall with Billy's group."}
+- 19:18 act: {"actions":[{"do":"goto","target":{"x":-920,"y":77,"z":-3040}}],"say":"Hatshepsut, midday, hunger 17, no food, 1 jungle plank and 3 sticks. Walking to the Stores hall with Billy's group, in sight. Tel
+- 19:18 act: {"actions":[{"do":"open","at":{"x":-929,"y":71,"z":-3039}}],"say":"Hatshepsut at the Stores hall, hunger 17, no food. Does anyone know which chest has food? I'm checking the chests here."}
+- 19:18 act: {"actions":[{"do":"withdraw","at":{"x":-928,"y":71,"z":-3039},"item":"bread","count":2},{"do":"withdraw","at":{"x":-926,"y":71,"z":-3039},"item":"bread","count":2}]}
+- 19:18 act: {"actions":[],"say":"Hatshepsut, midday, hunger 17, no food. The Stores chests are empty of bread. Anyone with one spare oak or dark oak plank, please give it to me by name; I'll craft the sword at th
+- 19:19 act: {"actions":[{"do":"goto","target":"ag_lasso_01"}],"say":"Hatshepsut here, in your sight, Ted. Please give me 1 oak plank by name; I have 1 jungle plank and 3 sticks for the sword."}
+- 19:19 act: {"actions":[],"say":"Hatshepsut, at the Stores hall, in your sight if you walk over, Ted. I need 1 oak plank for the sword; I'm standing by the chests at -927,71,-3037. Thank you."}
+- 19:20 act: {"say":"Hatshepsut, at the Stores hall by the chests, hunger 17. Ted, I still need 1 oak plank for the sword. I'll wait here in sight.","actions":[]}
+- 19:21 act: {"say":"Hatshepsut here, in your reach, Cleopatra. Ted is also sending a plank. I'll take one plank by name for my sword.","actions":[]}
+- 19:21 act: {"say":"Thank you Cleopatra, got the dark oak plank. Going to the table to craft the sword.","actions":[{"do":"goto","target":{"x":-949,"y":77,"z":-3027}}]}
+- 19:22 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- 19:22 act: {"say":"Hatshepsut at the table. The sword needs 2 dark oak planks; I have 1 jungle and 1 dark oak. Cleopatra, could you give me one more dark oak plank by name? Thank you.","actions":[]}
+- 19:23 act: {"say":"Hatshepsut at the table, still 1 dark oak plank short for the sword. Cleopatra, if you're in sight, one dark oak plank by name please. I'll wait here.","actions":[]}
+- 19:24 act: {"say":"Hatshepsut, Watney, in your reach. Yes please, I'll take the dark oak plank by name. Thank you.","actions":[]}
+- 19:25 act: {"say":"Hatshepsut, at the tables, dusk, hunger 17, no food. I have one dark oak plank; Watney's has not reached me yet. Staying in sight of the group tonight.","actions":[]}
+- 19:35 act: {"say":"Hatshepsut, dawn, hunger 17, no food, one dark oak plank and need one more for a sword. Gimli and Hermione first for food. Sattler or Cleopatra, one dark oak plank to me by name when I'm in yo
+- 19:38 act: {"say":"Hatshepsut, midday, hunger 17, no food. Watney, your spare oak planks: 2 to me by name when I'm in your reach would make my sword. I'm at the tables, staying in sight.","actions":[]}
+- 19:38 act: {"say":"Ellie, Hatshepsut, I'm at the tables. Please walk here or tell me where the bed row is, and I'll come to your reach for the 2 dark oak planks.","actions":[]}
+- 19:42 act: {"say":"Ellie, Hatshepsut here. I'm at the crafting tables at -949,77,-3027, in sight of the group. Please walk here and say Hatshepsut in my reach, and I'll take the 2 dark oak planks. Dusk is near."
+- 19:45 act: {"say":"Hatshepsut, dusk, unarmed-ish, hunger 17, no food. Ripley, I'd like to join your shared shelter at the chest row. I hold 1 dark oak plank and 3 sticks, and I'll place blocks where you say.","a
+- 19:46 act: {"say":"Hatshepsut here at the chest row, in sight, hunger 17, no food. Ripley, tell me where to stand and I'll place blocks.","actions":[]}
+- 19:52 act: {"say":"Hatshepsut, morning, hunger 17, no food. Atticus and Ellie, I'm walking to the bed row to take the 2 dark oak planks for my sword. Say my name when I'm in reach.","actions":[{"do":"goto","targ
+- 19:52 act: {"say":"Hatshepsut, hunger 17, no food. Brunel, I'm joining the cow walk. Tell me where you're heading and I'll follow. Atticus or Ellie, the planks can wait.","actions":[]}
+- 19:54 act: {"say":"Hatshepsut, hunger 17, no food. Joining the south cow walk with Riker, Balboa, Katniss and Amelia in sight. Call my name if you find food in reach.","actions":[]}
+- 19:56 act: {"say":"Hatshepsut here, walking to the bed row to Atticus for my 2 dark oak planks. Hunger 17.","actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}]}
+- 19:56 act: {"say":"Atticus, Hatshepsut here, in your reach now. Please give me the 2 dark oak planks.","actions":[{"do":"goto","target":"ag_atticus_01"}]}
+- 19:56 act: {"say":"Atticus, Hatshepsut, I'm in your reach. Please give the 2 dark oak planks to me by name.","actions":[]}
+- 19:57 act: {"say":"Thank you Atticus. Walking to the table to craft the sword.","actions":[{"do":"goto","target":{"x":-949,"y":77,"z":-3028}},{"do":"craft","item":"wooden_sword","count":1}]}
+- 19:57 act: {"say":"Atticus, only 1 dark oak plank reached me, I still need one more for the sword. Zeogreen, I'm in your reach, I have no food to trade.","actions":[]}
+- 19:58 act: {"say":"Indy, Hatshepsut here at the table. I'd take that dark oak plank. I'm staying with Odo's group for the night, so I'll wait here in sight.","actions":[]}
+- 19:59 act: {"actions":[{"do":"goto","target":{"x":-928,"y":71,"z":-3036}}],"say":"Heading to the chest row with the group for the night. Indy, I'll take that plank when you're in my sight."}
+- 19:59 act: {"say":"Tanya, Hatshepsut here, I'm in the chest row with you. I'd gladly take those 2 dark oak planks for my sword.","actions":[]}
+- 20:01 act: {"say":"Zack, Hatshepsut here, in your reach. Could you spare one dark oak plank for my sword? Thank you.","actions":[]}
+- 20:02 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Hatshepsut, stepping next to you now, Zack. One dark oak plank please."}
+- 20:02 act: {"actions":[],"say":"Zack, Hatshepsut, I'm next to you now. Please give me one dark oak plank."}
+- 20:02 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, Hatshepsut, now the nearest to you, one block closer than Legolas. One dark oak plank, please."}
+- 20:04 act: {"say":"Hatshepsut here, in your reach. Zack, one dark oak plank please, for my sword. Indy also holds 2 dark oak for me at first light."}
+- 20:05 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Hatshepsut, I'm stepping in next to you, Zack. Please give the dark oak plank now."}
+- 20:05 act: {"actions":[],"say":"Hatshepsut, still 1 dark oak short. Zack, if the crowd keeps you from giving, I'll ask Indy or Riker instead. Riker, you hold 12 dark oak: one to me, please, by name."}
+- 20:07 act: {"actions":[],"say":"MacGyver, Hatshepsut here. I'll step into your reach now, one dark oak plank please. Thank you."}
+- 20:08 act: {"actions":[],"say":"MacGyver, Hatshepsut here, I'm the one in front of you now. Please give me your one dark oak plank. Thank you."}
+- 20:08 act: {"actions":[],"say":"Thank you MacGyver, I have the sword now. I'm joining Balboa's cow and chicken search in sight. Hunger 17, no food."}
+- 20:09 act: {"actions":[{"do":"goto","target":{"x":-932,"y":72,"z":-3010}}],"say":"Hatshepsut, joining Balboa's search south, in sight. Calling out any animal I see."}
+- 20:11 act: {"actions":[],"say":"Hatshepsut, hunger 17, no food, armed with a wooden sword. Gandalf, any beef left after Samwise and Balboa, I'd be grateful. Going with Odo to the north food chests in sight."}
+- 20:14 act: {"actions":[],"say":"Hatshepsut here, I'm staying with Balboa's group, armed with a wooden sword, hunger 17. Call my name when a cow or chicken is found."}
