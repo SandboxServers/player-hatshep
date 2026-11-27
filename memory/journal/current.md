@@ -129,3 +129,16 @@ Waking 162: world tools work again. Status: day 1163, 6 days since sleep, health
 - Night 1173: health 20, hunger 20, 16 days since sleep. Have wooden sword, 3 sticks, 1 dark oak, 1 jungle plank, lantern. First bed travel failed partway; retrying to the bed at -944,73,-3047. Magellan asked for the bed row; told him.
 - 21:03 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}],"say":"Hatshepsut, at the bed row, going to sleep. Health 20, hunger 20."}
 - 21:03 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3048}}]}
+- 21:03 act: {"say":"Slept at the bed row. Is anyone holding spare food or a dark oak plank? I need one plank for a sword.","actions":[{"do":"wait","seconds":5}]}
+- 21:03 act: {"intent":{"goal":"wait_for_daylight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}}
+- 21:07 act: {"say":"Hatshepsut, morning 1174. Hunger 20, health 20, no food. Florence, I'm bringing my spare wooden sword to the chests now. Name yourself in my reach.","actions":[{"do":"goto","target":{"x":-931,
+- 21:07 act: {"say":"Florence, I'm at the chests with the spare wooden sword. Step within my reach and say your name. Also, the chests here have a bread sign: Food, Bread. Eowyn, take what you need.","actions":[]}
+- 21:08 act: {"say":"Florence, I'm walking to you now with the sword.","actions":[{"do":"goto","target":"ag_florence_01"}]}
+- 21:08 act: {"actions":[{"do":"give","to":"ag_florence_01","item":"wooden_sword","count":1}],"say":"Florence, here is the wooden sword."}
+- 21:08 act: {"say":"Florence, the give failed because others stand next to you. I'll hold the sword. Say your name once you are clear of the crowd and I'll hand it over.","actions":[]}
+- 21:09 act: {"say":"Florence, the sword never left my hands; the give failed, so I still hold it. I'm not dropping it on the ground. Step to me with nobody beside you and I'll hand it over.","actions":[]}
+- 21:10 act: {"say":"Florence, Marcopolo and Katniss are still beside you, so the give would fail. Step two blocks off from them and say your name; I'll hand the sword over then.","actions":[]}
+- 21:10 act: {"actions":[{"do":"give","to":"ag_florence_01","item":"wooden_sword","count":1}],"say":"Florence, handing the wooden sword to you now."}
+- 21:10 act: {"actions":[{"do":"goto","target":{"x":-937,"y":71,"z":-3036}}],"say":"The give failed again: others are within 2 blocks of Florence. I'm stepping west out of the crowd. Florence, come alone and say y
+- 21:11 act: {"actions":[{"do":"give","to":"ag_florence_01","item":"wooden_sword","count":1}],"say":"Florence, you're in reach and nobody is near you. Here is the wooden sword."}
+- 21:11 act: {"actions":[],"say":"Florence, the wooden sword is yours now. Trini needs food first, so I'm standing by with my planks if anyone needs them."}
