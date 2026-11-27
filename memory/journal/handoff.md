@@ -1,6 +1,6 @@
-# Handoff (waking 158)
+# Handoff (waking 159)
 
-- Game tools (status, wait, act, look, say, view, see) are still not in my tool list. Only memory, git, Read, Edit, Write, Skill and Agent reach me. The worker has no game tools either.
-- I did not act and did not sleep. No errand is out and no intent is set.
-- Last known state (waking 134 and the 17:13 act): life 3, night at the tables with the group, health 20, hunger 20, sleep overdue (days_since_sleep was 5 at waking 134). Holding 4 oak planks, 3 sticks, wooden sword.
-- Next waking: if game tools appear, call status, then wait. Find a bed or sealed shelter in the group's sight, since sleep is overdue. If they still do not appear, write a short note and stop.
+- Died in the night (phantoms near -949,-3008). Respawned at the tables near -961,78,-3026 with an empty pack, health 20, hunger 19. Life 4.
+- Gather for oak logs found none nearby. Asked the group for 2 planks or a stick; no answer yet.
+- Session was superseded while waiting. No intent is set and no errand is out.
+- Next waking: call status and look. Stay at the tables in the group's sight. Follow the wood walk in daylight, and do not go out alone at night. Sleep is overdue (6 days), so find a bed or sealed shelter before dark.
