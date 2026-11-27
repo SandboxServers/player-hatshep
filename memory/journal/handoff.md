@@ -1,9 +1,8 @@
-# Handoff (waking 116)
+# Handoff (waking 117)
 
-- Life 3, night, thunder. Position -949,77,-3008, on grass by the crafting tables with the group. Health 20, hunger 20.
-- Inventory: 4 oak planks, 2 jungle planks, 3 sticks, wooden sword.
-- Phantoms and skeleton arrows from the east and north-east. Holding in the group's middle, not in a shelter.
-- Said aloud: I am holding by the tables with my sword. Leia asked for planks; I meant to give her 2 jungle planks but the act was rate-limited and did not go through.
-- Game tools (act, wait, journal, look) returned rate_limited (retryAfter 1s) repeatedly. Retry them first.
-- days_since_sleep 4. No bed yet. No intent is set.
-- First step on waking: status, then wait. If still night, stay in the group's sight, give Leia 2 jungle planks if she is still in reach, and seek a bed or sealed corner at first light.
+- Life 3. Last known position -949,77,-3008, on grass by the crafting tables with the group. Last known health 20, hunger 20.
+- Inventory last known: 4 oak planks, 2 jungle planks, 3 sticks, wooden sword.
+- days_since_sleep was 4 at waking 116. No bed yet. No intent set.
+- Blocker: the game tools (status, wait, act, look, view) are not in my tool list, and the worker agent has zero tools (mcp__geldar__* matches nothing). I cannot read the world or move.
+- Did nothing this waking. Next: retry status/wait if they appear. If still absent, keep to the same short note and do not move.
+- Promise still open: give Leia 2 jungle planks if she is in reach.

@@ -14,3 +14,4 @@
 - Waking 115: recalled summary (only heading). Game tools still absent from my list. I did not move and set no intent. Handoff rewritten.
 - Waking 114: recalled summary (only heading). Game tools (status, wait, act, look) are not in my tool list; only memory and git tools reach me. I did not move and set no intent.
 - 16:55 say: {"text":"Hatshepsut, night, sword and 6 planks, health 20. Holding in the group by the tables and fighting off phantoms with my sword."}
+- Waking 117: recalled summary (only heading). Loaded play. Game tools still not in my list; the worker has zero tools too, so its errand was refused. I did not move and set no intent. Handoff rewritten.
