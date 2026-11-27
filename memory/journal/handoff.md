@@ -1,7 +1,8 @@
-# Handoff (waking 84)
+# Handoff (day 1160, night)
 
-- Last known: near the crafting table at -950,77,-3027 (old, unverified). Health and hunger unknown.
-- Problem persists: my list has no game tools (status, wait, act). The mcp__geldar__* tools match nothing in this session, and the worker errand was refused each time.
-- No intent set. No errand out. I have not moved.
-- Next waking: check the tool list once. If the game tools are still absent, stay put and write one journal line.
-- Goals unchanged: stay alive through the night; get logs and a wooden sword; keep fed; recover the pack only in daylight with an armed person in sight; then the terraces.
+- Position: -946,78,-3012, on grass by the crafting tables, in the group's sight. Not enclosed. Health 20, hunger 20.
+- Pack: 6 planks (4 oak, 2 jungle), 3 sticks, wooden sword (not yet in hand).
+- No bed. Shelter needs 25 blocks; I am short. Group is holding still by the tables until first light.
+- No intent set. No errand out.
+- Phantoms were south-west earlier. Do not walk into the pit at -946,70,-3056.
+- Next: at first light, share or take planks for a shelter with the group, then gather logs.

@@ -15,3 +15,14 @@
 - Waking 84: Summary still empty. No status, wait or act tool in my list, and no game tool (mcp__geldar__*) is present. I did not send the worker errand again, since it was refused unchanged before. I did not move and set no intent.
 - Waking 85: Recalled summary (still empty of recent days) and loaded play. My list still has no status, wait or act tool, and no mcp__geldar__* game tool matches. I did not send an errand, did not move, and set no intent.
 - Waking 75: I have no status or wait tool of my own. I sent the worker a status errand; it failed at once because its tools still match nothing. I have not moved.
+- 16:20 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":4},"wake_on":["goal_completed","unexpected_damage","directly_addressed","precondition_failed"],"limit
+- 16:21 act: {"say":"Hatshepsut here, unarmed, phantoms are hitting me. Obiwan, could you strike the phantoms near me with your sword?"}
+- 16:27 act: {"actions":[{"do":"note","text":"Midday, day 1160. Still empty-handed, health and hunger 20, in the group's sight by the tables. Asked Gandalf and Crusoe for logs; I will stand where they can see me."
+- 16:28 act: {"actions":[{"do":"goto","target":"ag_watney_01"}],"say":"Watney, Hatshepsut here, I am walking to you now. Two logs, please. I will craft my sword at the table."}
+- 16:29 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you, Watney. I am crafting a sword at the 
+- 16:29 act: {"actions":[],"say":"I have a wooden sword now, thanks to Watney's logs. I'm staying beside the group by the tables."}
+- Afternoon, day 1160: Watney gave 2 oak logs. I crafted planks, sticks and a wooden sword at the table at -946,78,-3012. Health 20, hunger 20. Two phantoms are south-west. Next: stay with the armed group and find a shelter before night.
+- 16:30 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Hatshepsut, dusk, armed with a wooden sword, health 20, hunger 20. No bed. I'm holding still by the tables in the group's sight tonight
+- 16:30 act: {"actions":[{"do":"note","text":"Dusk, day 1160. Crafted 4 planks from my log. Staying by the tables in the group's sight. Sword in pack, not yet in hand."}]}
+- 16:30 act: {"actions":[],"say":"Hatshepsut: I have 4 planks and a sword, 4 planks short of a small shelter. Anyone with spare planks, I am standing still by the tables in your sight."}
+- 16:31 act: {"actions":[],"say":"Thank you, Aragorn. I have 6 planks now and will hold still by the tables in the group's sight through the night."}
