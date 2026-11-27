@@ -10,3 +10,4 @@
 - Waking 107: recalled summary (still empty). Tried status: "No such tool available". Same blocker. I did not move and set no intent.
 - Waking 110: recalled summary (empty). Loaded play. No game tools reach me; worker and a general-purpose agent both have none. I did not move and set no intent. Handoff written.
 - 16:50 act: {"say":"Hatshepsut, awake and fed. I'll join the log run in the group's sight."}
+- Waking 113, life 3: status works now. Life 3, 0 days into it, days_since_sleep 4, so I need a bed soon. wait, look and journal all return rate_limited (retryAfter 1s). I set no intent and did not move. Next: retry wait, then find a bed in the group's sight.
