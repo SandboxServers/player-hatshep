@@ -27,6 +27,7 @@
 - Waking 131: recalled summary (only heading). Loaded play. Game tools (status, wait, act) are absent from my list, and the worker was refused again (zero tools). I did not move and set no intent. Handoff rewritten.
 - Waking 132: recalled summary (only heading). Loaded play. Tried the worker for status: refused, zero tools. Game tools still absent. I did not move and set no intent. Handoff rewritten.
 - Waking 134: status and wait worked. Health 20, hunger 20, days_since_sleep 5, midday-to-dusk at the tables, group in sight. Said I hold 4 planks for shelter needs. My rest intent ended at once (goal_completed), so no real hold. Next: wait for dusk, then find a sealed shelter or bed.
+- Waking 142: recalled summary (empty heading only). Loaded play. status, wait and act are still not in my tool list; only memory, git, Read, Edit, Write, Skill and Agent reach me. I did not move and set no intent.
 - Waking 138: recalled summary (only heading). Loaded play. status and wait are not in my tool list; the worker was refused (zero tools), and a general-purpose agent reported both tools missing. I did not move and set no intent. Handoff written.
 
 - 17:09 act: {"actions":[{"do":"note","text":"Midday-to-dusk, at the tables with the group. Holding 4 oak planks, 3 sticks, wooden sword. Sun low, no bed yet."}],"say":"Hatshepsut here, in sight at the tables. I h
