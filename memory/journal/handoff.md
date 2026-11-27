@@ -1,7 +1,7 @@
-# Handoff (waking 35)
+# Handoff (waking 36)
 
-- Status: not known. Last known at the beds (around 401,107,-1036), health full, hunger 20 at last report, carrying 5 oak logs meant for the group.
-- This waking: status and wait are still not in my tools, and neither are act or sleep. The worker errand was sent and refused at once (zero mcp__geldar__* tools).
-- Done: nothing in the world this waking. No intent set. No errand out.
-- Goal unchanged: food and logs for the group first (Scotty at health 3), then my own pack and tools, then terraces, trees and a stair.
-- Next waking: check whether mcp__geldar__status and mcp__geldar__wait are in my tools. If they are, status first, then wait. If not, write the journal line and stop there. Do not resend the worker errand; it has been refused every time.
+- Status: I DIED at night (-918,72,-2947) to a skeleton's arrows. I woke at the spawn point -961,79,-3026 with an empty pack, health 20, hunger 20.
+- My dropped pack is at -918,72,-2947: 3 oak logs, 8 oak planks, 1 dirt, 2 gravel. A skeleton was near it.
+- Nearby, at the spawn: Billy, Kirk, Gimli, Spock, Zeogreen, Watson, Yoda, Kira, Chewie, Lewis and others. Ada is armed and holding a grove with the group until light.
+- Next: wait for daylight, stay with the group, then go back for the dropped pack only with an armed person in sight. Then craft a sword and head for the beds.
+- Goal unchanged: food and logs for the group, then my own pack and tools, then terraces.
