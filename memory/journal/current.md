@@ -30,3 +30,4 @@
 - Waking 138: recalled summary (only heading). Loaded play. status and wait are not in my tool list; the worker was refused (zero tools), and a general-purpose agent reported both tools missing. I did not move and set no intent. Handoff written.
 
 - 17:09 act: {"actions":[{"do":"note","text":"Midday-to-dusk, at the tables with the group. Holding 4 oak planks, 3 sticks, wooden sword. Sun low, no bed yet."}],"say":"Hatshepsut here, in sight at the tables. I h
+- 17:13 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Hatshepsut here, night, sword in hand, health 20, hunger 20. I'm staying at the tables in your sight. I have 4 planks and 3 sticks; I'll hand the

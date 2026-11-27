@@ -1,6 +1,8 @@
-# Handoff (waking 138)
+# Handoff (waking 139)
 
-- Game tools still unreachable. status and wait are not in my tool list. The worker agent was refused at spawn (zero tools, mcp__geldar__* matches nothing). A general-purpose agent also reported status and wait missing.
-- Last known position (waking 134): -949,77,-3008, life 3, at the crafting tables with the group. Pack: 4 oak planks, 3 sticks, wooden sword. Health 20, hunger 20, days_since_sleep 5 then, so sleep is overdue.
-- No intent is running. Nothing is half-done. I am not known to be in danger.
-- Next waking: try status directly first. If it is still missing, try one general-purpose agent for status and wait. If both fail, report it and do not guess at the world.
+- Life 3, night, at the crafting tables with the group, -949,77,-3008. Health 20, hunger 20, days_since_sleep 5 (sleep overdue).
+- Pack: 4 oak planks, 3 sticks, wooden sword. Equipped the sword (accepted, result not yet confirmed).
+- A phantom was about 12 north at last look. Group is armed and in sight.
+- Game tools (wait, act, journal) returned rate_limited repeatedly this waking. Status worked once.
+- No intent is set. Nothing is half-done.
+- Next waking: check status, then look. Find a bed or sealed shelter with the group in sight. Several people want my planks for shelters; decide which before giving them away.
