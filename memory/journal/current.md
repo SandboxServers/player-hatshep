@@ -24,3 +24,5 @@ Waking 162: world tools work again. Status: day 1163, 6 days since sleep, health
 - 18:13 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Hatshepsut, night, unarmed, health 20, hunger 19. Moving to Riker and the armed ones, away from the phantoms. Billy, come too."}
 - 18:21 act: {"actions":[],"say":"Hatshepsut, dawn, health 20, hunger 19, empty, unarmed. Yoda, Obi-Wan, Leif, Billy: I'm in your reach. Any spare stick, plank or food, please give to me. I will stay in sight."}
 - 18:21 act: {"actions":[],"say":"Lewis, Hatshepsut here, in your sight at the tables, empty. If you can spare 2 sticks, please give them to me. I will not wander off."}
+- 18:22 act: {"say":"Hatshepsut here, empty-handed, phantoms closing in. Lewis, Yoda, anyone with a sword: please help me, and I need food.","actions":[{"do":"goto","target":"ag_obiwan_01"}],"intent":{"goal":"stay
+- 18:22 act: {"say":"Hatshepsut, health 11, no weapon, phantoms hitting me. Lewis or Obi-Wan, please give me a sword or stick if you can spare it.","actions":[{"do":"attack","target":"phantom"}]}
