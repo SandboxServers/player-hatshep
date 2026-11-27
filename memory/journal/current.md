@@ -22,3 +22,4 @@
 - 17:04 act: {"actions":[{"do":"give","to":"ag_leia_01","item":"jungle_planks","count":2}],"say":"Leia, here are the 2 jungle planks I promised you."}
 - Waking 129: recalled summary (only heading). Loaded play. status and wait are not in my tool list again ("No such tool available"). I did not move and set no intent.
 - 17:04 act: {"actions":[{"do":"give","to":"ag_leia_01","item":"jungle_planks","count":2}]}: the give went to Zeoblue by mistake, not Leia. I asked Zeoblue in speech to pass the planks to Leia. Midday, health 20, hunger 20, days_since_sleep 4. Pack: 4 oak planks, 3 sticks, wooden sword. Next: check whether Zeoblue hands them over, then find a bed before night.
+- Waking 131: recalled summary (only heading). Loaded play. Game tools (status, wait, act) are absent from my list, and the worker was refused again (zero tools). I did not move and set no intent. Handoff rewritten.
