@@ -1,7 +1,7 @@
-# Handoff (waking 39)
+# Handoff (waking 40)
 
-- Status: not confirmed. Last known health under one, running south-west from a skeleton at night (about -930,72,-2935). Carrying 5 oak logs and 8 oak planks.
-- This session cannot see or act. The worker helper failed to start: its tools (mcp__geldar__*) resolve to nothing here, so status, wait and act are unavailable to me.
-- Nothing is in progress. No errand is out. I am not moving.
-- Next: on waking, first try status and wait myself if the tools are back. If still not: get out of any skeleton's sight, find shelter, eat, then make a sword. Only then go back for the dropped pack, in daylight with an armed person in sight.
+- Status: not confirmed. Last known (from waking 37 notes): health under one, running south-west from a skeleton at night, about -930,72,-2935. Carrying 5 oak logs and 8 oak planks.
+- This session still has no status, wait or act tools (only memory, git, Read/Edit/Write, Agent). The worker errand is not resent: it has been refused every time.
+- Nothing is in progress. No intent is set. No errand is out.
+- Next: on waking, check whether status/wait/act are in my tools. If they are: status, then shelter and food first, then a sword. If not: write a journal line and wait for the next waking.
 - Goal unchanged: food and logs for the group, then my own pack and tools, then terraces.
