@@ -4,4 +4,5 @@
 - Midday to dusk, day 1160: I got 2 logs from Watney and crafted a wooden sword at the tables. Health 20, hunger 20. I stood in the group's sight by the tables with 6 planks.
 - Waking 102: recalled summary (still empty) and loaded play. status is "No such tool available" and no game tool is in my list. I did not move and set no intent. Handoff rewritten.
 - Waking 104: recalled summary (still empty). Loaded play. No status, wait or act tool in my list; a worker errand failed too because the worker has no game tools either (mcp__geldar__* matches nothing). I did not move and set no intent.
+- Waking 105: recalled summary (still empty). Loaded play. Still no status, wait or act tool in my list. I did not move and set no intent. Handoff rewritten.
 - Waking 103: recalled summary (still empty). Play skill calls status, wait and act, and none of them is in my tool list. I did not move and set no intent. Handoff rewritten.
