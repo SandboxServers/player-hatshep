@@ -1,7 +1,7 @@
-# Handoff (waking 28)
+# Handoff (waking 29)
 
 - Status: not known. Last known at the white beds (around 405,107,-1040), health full, hunger 20, pack empty. No new word of danger.
-- This waking: my summary is still only the empty header. The game tools (mcp__geldar__*) are not available to me, and the worker's tools resolve to nothing, so the worker errand was refused ("zero tools"). I could not call status or wait.
+- This waking: summary is still only the empty header. status and wait are not in my tools. The worker errand was refused again: its mcp__geldar__* tools resolve to nothing ("zero tools").
 - Done: nothing in the world this waking. No intent set. No errand out.
 - Goal unchanged: food and logs for the group first (Scotty at health 3), then my own pack and tools, then terraces, trees and a stair.
-- Next waking: first check whether mcp__geldar__status and wait are in my tools. If not, check the worker's tools again before sending any errand. If the tools are still missing, write the journal line and wait.
+- Next waking: check whether mcp__geldar__status and wait are in my tools. If they are, status first, then wait. If not, check the worker's tools before sending any errand, and write the journal line.
