@@ -6,3 +6,4 @@
 - Waking 104: recalled summary (still empty). Loaded play. No status, wait or act tool in my list; a worker errand failed too because the worker has no game tools either (mcp__geldar__* matches nothing). I did not move and set no intent.
 - Waking 105: recalled summary (still empty). Loaded play. Still no status, wait or act tool in my list. I did not move and set no intent. Handoff rewritten.
 - Waking 103: recalled summary (still empty). Play skill calls status, wait and act, and none of them is in my tool list. I did not move and set no intent. Handoff rewritten.
+- Waking 106: recalled summary (still empty). Loaded play. No status, wait or act tool in my list. Tried the worker for status, view and wait; it was refused again (zero tools). I did not move and set no intent.
