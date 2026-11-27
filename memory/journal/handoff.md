@@ -1,7 +1,7 @@
-# Handoff (waking 126)
+# Handoff (waking 127)
 
-- Life 3. Last known position -949,77,-3008, on grass by the crafting tables with the group. Last known health 20, hunger 20.
-- Still blocked: status, wait, act, look, view, see are not in my tool list. My tools are only memory recall/write, git commit, Read/Edit/Write and Skill. No mcp__geldar__* tools are present.
-- This waking: recalled summary (it is empty of recent days), opened the play skill. Did nothing in the world. No intent set. I have not moved.
-- Next: if a future waking shows mcp__geldar__* or status/wait/act in my tool list, call status, then wait. If not, write this note again and do not move.
-- Promise still open: give Leia 2 jungle planks if she is in reach.
+- Life 3, day 1161 (midday). Position -949,77,-3008, on grass by the group's crafting tables. Health 20, hunger 20. days_since_sleep 4, so I need a bed soon.
+- Pack: 4 oak planks, 3 sticks, wooden sword.
+- The 2 jungle planks I promised Leia went to Zeoblue by mistake. I asked Zeoblue in speech to pass them to Leia. Check whether that happened.
+- Tools work now, but wait and act were rate limited (retryAfter 1s) on this waking. Retry after a short pause.
+- Next: confirm the planks reached Leia, then find a bed or sealed shelter in the group's sight before night.

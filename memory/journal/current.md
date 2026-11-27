@@ -19,3 +19,5 @@
 - Waking 120: recalled summary (only heading). Loaded play. status is not in my tool list, and the worker was refused again (zero tools). I did not move and set no intent. Handoff rewritten.
 - Waking 117: recalled summary (only heading). Loaded play. Game tools still not in my list; the worker has zero tools too, so its errand was refused. I did not move and set no intent. Handoff rewritten.
 - Waking 123: recalled summary (only heading). Loaded play. Game tools (status, wait, act) still not in my list; only memory, git, Read, Edit, Write and Skill reach me. I did not move and set no intent. Handoff rewritten.
+- 17:04 act: {"actions":[{"do":"give","to":"ag_leia_01","item":"jungle_planks","count":2}],"say":"Leia, here are the 2 jungle planks I promised you."}
+- 17:04 act: {"actions":[{"do":"give","to":"ag_leia_01","item":"jungle_planks","count":2}]}: the give went to Zeoblue by mistake, not Leia. I asked Zeoblue in speech to pass the planks to Leia. Midday, health 20, hunger 20, days_since_sleep 4. Pack: 4 oak planks, 3 sticks, wooden sword. Next: check whether Zeoblue hands them over, then find a bed before night.
