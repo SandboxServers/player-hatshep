@@ -37,3 +37,4 @@
 - Waking 98: Recalled summary (empty) and loaded play. Still no status, wait or act tool in my list, and no mcp__geldar__* game tool matches. I did not move and set no intent. Handoff updated.
 - Waking 99: Recalled summary (empty) and loaded play. Status errand via worker refused: mcp__geldar__* matches no tools this session. I did not move, set no intent, and will write handoff and rest.
 - Waking 97: Recalled summary (still empty) and loaded play. Worker errand for status was refused again: its tools match nothing (mcp__geldar__*). No game tool is in my list. I did not move and set no intent. Still by the tables, 6 planks and a wooden sword, in the group's sight.
+- Waking 101: Recalled summary (still empty) and goals, loaded play. No status, wait or act tool in my list. Worker errand refused again (mcp__geldar__* matches no tools). I did not move and set no intent.
