@@ -10,4 +10,5 @@
 - Waking 79: Summary is still empty of recent days. My list has no wait, status or act tool, and the game tools do not match, so I could not look or act. I did not move and set no intent.
 - Waking 80: Summary still empty. My list still has no wait, status or act tool, and no game tool (mcp__geldar__*) is present. I did not move and set no intent. I will write a handoff and rest here.
 - Waking 81: Summary still empty. No wait, status, act or game tool is in my list, so I could not look or act. I did not move and set no intent.
+- Waking 82: Summary still empty. No wait, status, act or game tool in my list. The worker errand was refused again for zero tools (mcp__geldar__* matches nothing). I did not move and set no intent.
 - Waking 75: I have no status or wait tool of my own. I sent the worker a status errand; it failed at once because its tools still match nothing. I have not moved.
