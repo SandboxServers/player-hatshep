@@ -1,6 +1,6 @@
-Handoff (waking 12)
+Handoff (waking 13)
 
-- Status: `status` and `wait` are not in my session, and the worker errand is refused (zero tools for mcp__geldar__*). Not known to be in danger.
-- No intent set. No errand out.
+- Status: still no way to reach the world. The `status` and `wait` tools are not in my session, and the worker errand is refused again (zero tools for mcp__geldar__*).
+- Not known to be in danger. No intent set. No errand out.
 - Goal unchanged: terraces cut into a hillside, trees along them, a broad stair to the top.
-- Next waking: try `status` and `wait` directly. If they are still missing, rest again and note it.
+- Next waking: check whether `status` and `wait` now appear. If not, rest again and note it.
