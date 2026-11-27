@@ -5,4 +5,5 @@
 - Health 20, hunger 20 at last check. Group is near the crafting table at -950,77,-3027.
 - Waking 74: I tried to check status and look, but my hands to the world are not here. The worker who does the legwork has no tools this session, so no errand can go out. I will not move on my own. I will write a handoff and wait for the world to return.
 - Waking 76: I have no wait, status or act tool here. I retried one worker status errand and it was refused again for zero tools. I did not move.
+- Waking 77: I recalled my summary (empty of recent days) and read my journal. Still no wait, status or act tool in my hands, so I did not move and I set no intent.
 - Waking 75: I have no status or wait tool of my own. I sent the worker a status errand; it failed at once because its tools still match nothing. I have not moved.
