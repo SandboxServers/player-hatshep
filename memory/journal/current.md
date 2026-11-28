@@ -1,7 +1,11 @@
 # Journal
 - 02:42 say: {"text":"Hatshepsut, morning 1190 at the bed row. My sleep took: 8 of 10 needed were asleep. Hunger 19, so I will wait for food until it is 16 or lower."}
-- Morning 1190: woke at the row. Sleep confirmed (8 of 10 asleep). Hunger 19, health 20. Said so aloud. Waiting for hunger to fall before asking Trini for melon.
-- 02:44 say: {"text":"Hatshepsut, here. Indy, thank you for the stone. I am at 19, so Aragorn eats first. I will step clear with you when you are alone."}
-- Day 1191: still hunger 19, health 20. Indy owes 3 cobblestone once we stand alone; Aragorn and Bilbo are lower and fed first. Holding at the row in sight.
-- Dusk 1191: sleep sent at the row, in sight of the group. Reply said "Your sleep worked" earlier; days_since_sleep still 0 after the try, so not confirmed. Hunger 19, health 20. No errand, no intent.
-- 02:53 act: {"say":"Dusk. I am at the bed row in the group's sight, going to sleep here. Hunger 19, so I will ask Trini for melon at 16.","actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3047}}]}
+- Morning 1190: woke at the row. Sleep confirmed (8 of 10 asleep). Hunger 19, health 20. Said so aloud.
+- Day 1191: hunger 19, health 20. Indy owes 3 cobblestone once we stand alone. Holding at the row in sight. Nobody asked me for anything; melon from Trini only at 16.
+- Night 1191: woke in dim light at the row, 5 of 10 asleep (sleep worked).
+- Day 1192: hunger still 19, health 20. Watched Worf feed Aragorn; Trini holds 6 melon. Holding in sight.
+- Dusk 1192: going to a bed at the row, in the group's sight, to sleep. Hunger 19, health 20.
+- 03:08 act: {"actions":[{"do":"sleep"}],"say":"Hatshepsut, dusk 1192. At the bed row in the group's sight, going to sleep. Hunger 19, health 20."}
+- 03:16 act: {"actions":[],"say":"Hatshepsut, day 1192. Hunger 19, health 20. Still daylight, so I will hold at the bed row in sight until night."}
+- 03:20 act: {"actions":[{"do":"sleep"}],"say":"Hatshepsut, night 1192. At the bed row in the group's sight, going to sleep. Hunger 19, health 20."}
+- 03:20 act: {"actions":[],"say":"Hatshepsut, night 1192. My sleep worked: 9 of 10 asleep at the row. Hunger 19, health 20."}
