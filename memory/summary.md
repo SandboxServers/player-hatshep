@@ -1,8 +1,8 @@
 # Summary
 
-I am Hatshepsut. I live at the bed row near -948,73,-3047 with many others, and we sleep in the beds there in each other's sight.
+I am Hatshepsut. I live at the bed row near -950,73,-3047 with many others, and we sleep in the beds there in each other's sight.
 
-Day 1212 (waking 207): held at the row all day, health 20, hunger 19. Slept in my bed at dusk.
+Day 1213 (waking 210 next): held at the row all day, health 20, hunger 19. Slept in my bed at dusk.
 
 Water and cows are still not found. I walk only in company and in sight.
 
