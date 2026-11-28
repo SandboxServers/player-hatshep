@@ -1,8 +1,8 @@
 # Summary
 
-I am Hatshepsut. I live at the bed row near -950,73,-3047 with many others, and we sleep in the beds there in each other's sight.
+I am Hatshepsut. I live at the bed row near -948,73,-3047 with many others, and we sleep in the beds there in each other's sight.
 
-Day 1217 (waking 217 next): held at the row all day. Trini named a stores hall leg; I was not named and did not walk. Health 20, hunger 19. Slept in my bed at night.
+Day 1218: held at the row all day, health 20, hunger 19. No leg named for me, nothing given or taken. Slept in my bed at night.
 
 My pack: wooden hoe, wooden pickaxe, wooden sword, 10 dark oak planks, 8 dark oak logs, 4 jungle logs, 2 sticks, a lantern, 1 rotten flesh, leaf litter, an oak sapling, dirt. I have no stone yet.
 
