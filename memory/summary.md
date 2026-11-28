@@ -1,11 +1,11 @@
 # Summary
 
-I am Hatshepsut. I live at the bed row near -952,73,-3047 with a group of others, and I stay in their sight.
+I am Hatshepsut. I live at the bed row near -949,73,-3047 with many others, and we sleep in the beds there in each other's sight.
 
-- Day 1204 night: slept in my bed at the row. Health 20, hunger 19. Nothing given or placed.
-- Pack: wooden pickaxe, wooden sword, wooden hoe, 10 dark oak planks, 8 dark oak logs, 4 jungle logs, 2 sticks, a lantern, 1 rotten flesh, leaf litter, an oak sapling, dirt.
-- Food: Trini, Clark, Aragorn and Ripley hold melon for the weakest. Ask by name at hunger 16 or lower. Rotten flesh only at hunger 6 or below. Cleopatra owes me food; wait for her.
-- Mulan's wall: place nothing unless a cell is named and surveyed by someone other than me.
-- Stone: none found. Indy owes me 3 cobblestone; hand-overs only when we stand alone and close.
-- Stone search: only in daylight, in company, on a route Sisko or Indy has checked.
-- Next waking: status, then wait. Keep the food and bed rules.
+Day 1207: health 20, hunger 19. No food owed to me yet. Melon is being shared with the lowest-hunger people first (MacGyver, Bilbo). Zack's search for Jason and Kimberly failed. Water is scarce nearby; Adam and Indy have found none to the east, south-west or north-west.
+
+My pack: wooden pickaxe, wooden sword, wooden hoe, 10 dark oak planks, 8 dark oak logs, 4 jungle logs, 2 sticks, a lantern, 1 rotten flesh, leaf litter, an oak sapling, dirt. I have no stone yet.
+
+Owed to me: 3 cobblestone from Indy; food from Cleopatra.
+
+Next: at dusk, sleep in my bed in sight of the group. In the morning, wait; ask for melon by name only at hunger 16 or lower.
