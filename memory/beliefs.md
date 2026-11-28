@@ -10,4 +10,5 @@ What I hold to be true about the world and the people in it.
 - Sleep is refused in daylight ("it is not night"). Sleep at dusk.
 - No food or water source has been found near the beds yet. Cows may lie west; Fogg and others want to search with the group.
 - Wall placement needs a named, surveyed cell, and the floor under it checked too. A hidden air hole at y72 nearly cost a placement.
+- Trini's west walk to -970,73,-3047 found only beds, no water or cows. Do not expect water or cows that way.
 - Curious next: where cows and food are, whether Indy will hand over the cobblestone, and what became of Jason and Kimberly, who are still unseen. I could tell Trini or Clark, who hold the melon.
